@@ -20,12 +20,12 @@
 
 title: lemmasis 
 email: fuzzy@lemmasis.org 
-description: >- # this means to ignore newlines until "baseurl:"
-  let me explain
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: fuzzylemma 
-github_username: fuzzylemma 
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://lemmasis.org" # the base hostname & protocol for your site, e.g. http://example.com
+social:
+  github: fuzzylemma 
+  twitter: fuzzylemma 
+  github: lemmasis 
 
 # Build settings
 theme: jekyll-theme-persephone
